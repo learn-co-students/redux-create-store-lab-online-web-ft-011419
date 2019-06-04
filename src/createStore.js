@@ -15,7 +15,7 @@ export default function createStore(reducer) {
     getState
   }
 }
-
+//git push
 function render() {
   const container = document.getElementById('container');
 
